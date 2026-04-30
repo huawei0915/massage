@@ -1,0 +1,33 @@
+{
+    "name": "雨瑤美業",
+    "short_name": "雨瑤美業",
+    "description": "顱骶睡眠頭療・深層放鬆・台北新北基隆到府按摩",
+    "icons": [
+        {
+            "src": "/web-app-manifest-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/web-app-manifest-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/favicon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#c9a87c",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+}
